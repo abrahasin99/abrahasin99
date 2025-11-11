@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Abu Raihan Tashin  
+# 👋 Assalamu'Alaikum, I'm Abu Raihan Tashin :)
 
 I'm a **Web Developer** who believes in growing through challenges and learning from every step of the journey.  
 I've struggled, strived, fallen, learned — and moved forward with more strength each time. 🌱  
@@ -29,15 +29,13 @@ I believe growth comes from persistence. Every project, every line of code, and 
 ---
 
 ### 📫 Let's Connect  
-- 💼 [[Your Portfolio or LinkedIn link here](https://www.linkedin.com/in/abu-raihan-tashin-704a37266/)]  
-- ✉️ [Your email or contact link here](abu.tashin01@gmail.com)]
+- 💼 [https://www.linkedin.com/in/abu-raihan-tashin-704a37266/]  
+- ✉️ [abu.tashin01@gami.com]
 
 ---
 
 ⭐ **Thanks for visiting!**  
 If you like my work, consider giving a ⭐ to support and connect!
-## Assalamu'Alakium
-Abu Raihan Tashin has walked through struggle, stumbled in the dark, learned from every fall, and kept moving forward. He is now training on how to learn and adopt technologies faster.
 
 <!--
 **abrahasin99/abrahasin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
