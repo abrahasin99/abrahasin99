@@ -1,53 +1,42 @@
-# 👋 Assalamu'Alaikum, I'm Abu Raihan Tashin :)
+<h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 
-I'm a **Web Developer** who believes in growing through challenges and learning from every step of the journey.  
-I've struggled, strived, fallen, learned — and moved forward with more strength each time. 🌱  
-
-Right now, I'm focused on **building solid foundations in web development**, and in the future, I aim to expand into **app and software development**.  
-
----
-
-### 💻 What I Work With  
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- **Backend:** PHP  
-- **Libraries & Tools:** jQuery  
+<p align="center">
+  🌱 Web Developer | Building my skills step by step <br>
+  💡 Learning. Improving. Delivering with integrity.
+</p>
 
 ---
 
-### 🎯 My Principles  
-- Deliver **error-free, reliable work**  
-- Maintain **high work ethics and professionalism**  
-- Keep **learning, improving, and adapting**  
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,jquery" alt="Tech Stack" />
+</p>
 
 ---
 
-### 🌟 A Bit About Me  
-I believe growth comes from persistence. Every project, every line of code, and every error is a lesson — and I’m here to learn them all with patience and passion.  
+### ✨ About Me
+> I’m a **Web Developer** focused on building smooth, efficient, and accessible web experiences.  
+Currently, I’m sharpening my skills in **frontend development** and learning to write **clean, maintainable code**.  
 
-> “Falling is part of the journey — rising again is where strength is built.”
+I’m passionate about understanding **how technology works under the hood** — from client-side interactions to backend logic — as I prepare to step into **app and software development**.  
 
----
-
-### 📫 Let's Connect  
-- 💼 [https://www.linkedin.com/in/abu-raihan-tashin-704a37266/]  
-- ✉️ [abu.tashin01@gami.com]
+I aim to deliver **error-free work** while maintaining **high work ethics** and a humble mindset.  
+Every project I take on helps me grow a little more. 🌿
 
 ---
 
-⭐ **Thanks for visiting!**  
-If you like my work, consider giving a ⭐ to support and connect!
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
 
-<!--
-**abrahasin99/abrahasin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C0A3&center=true&vCenter=true&width=500&lines=Web+Developer;Learner+%26+Problem+Solver;Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ **Thanks for stopping by!** Let’s grow together.  
