@@ -1,4 +1,5 @@
 ## Hi there 👋
+Learning how to learn fast and adopt new technologies. The journey of a thousand miles begins with one step.
 
 <!--
 **abrahasin99/abrahasin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
