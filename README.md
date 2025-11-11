@@ -1,5 +1,5 @@
-## Hi there 👋
-Learning how to learn fast and adopt new technologies. The journey of a thousand miles begins with one step.
+## Assalamu'Alakium
+Abu Raihan Tashin has walked through struggle, stumbled in the dark, learned from every fall, and kept moving forward. He is now training on how to learn and adopt technologies faster.
 
 <!--
 **abrahasin99/abrahasin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
