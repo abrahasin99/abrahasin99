@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
-<img src="https://animated-country-flags.malith.dev/animated-country-flags/webp/BD.webp" alt="Bangladesh Flag" style="width: 150 px;">
+<img src="https://animated-country-flags.malith.dev/animated-country-flags/webp/BD.webp" alt="Bangladesh Flag" style="width: 150px;">
 
 <p align="center">
   🌱 Web Developer | Building my skills step by step <br>
