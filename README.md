@@ -1,8 +1,9 @@
 <h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
-
-<img src="https://raw.githubusercontent.com/Malith-Rukshan/animated-country-flags/refs/heads/main/webp/BD.webp" width="200"/>
-
 <p align="center">
+<img src="https://raw.githubusercontent.com/Malith-Rukshan/animated-country-flags/refs/heads/main/webp/BD.webp" width="200"/>
+<br>
+<br>
+<br>
   🌱 Web Developer | Building my skills step by step <br>
   💡 Learning. Improving. Delivering with integrity.
 </p>
