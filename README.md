@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-   <h6>Web Developer</h6> | Building my skills step by step <br>
+   <h4>Web Developer</h4> <br> Building my skills step by step <br>
   💡 Learning. Improving. Delivering with integrity.
 </p>
 
