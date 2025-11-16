@@ -1,6 +1,6 @@
 <h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 
-<img align="center" src="https://animated-country-flags.malith.dev/animated-country-flags/webp/BD.webp" alt="Bangladesh Flag" style="width: 150 px;">
+<img src="https://raw.githubusercontent.com/Malith-Rukshan/animated-country-flags/refs/heads/main/webp/BD.webp" width="200"/>
 
 <p align="center">
   🌱 Web Developer | Building my skills step by step <br>
