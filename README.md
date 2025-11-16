@@ -1,11 +1,11 @@
-<h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
+<h1 align="center"> 🫡 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Malith-Rukshan/animated-country-flags/refs/heads/main/webp/BD.webp" width="200"/>
 <br>
 <br>
 <br>
-   <h4>Web Developer</h4> <br> Building my skills step by step <br>
-  💡 Learning. Improving. Delivering with integrity.
+   Web Developer | Building my skills step by step <br>
+  <h6>Learning. Improving. Delivering with integrity.</h6>
 </p>
 
 ---
