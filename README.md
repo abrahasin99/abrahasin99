@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+<img src="https://animated-country-flags.malith.dev/animated-country-flags/webp/BD.webp" alt="Bangladesh Flag" style="width: 150 px;">
 
 <p align="center">
   🌱 Web Developer | Building my skills step by step <br>
