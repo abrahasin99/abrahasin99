@@ -1,6 +1,5 @@
 <h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
-<tgs-player src="https://animated-country-flags.malith.dev/animated-country-flags/tgs/BD.tgs" autoplay loop style="width: 150px; height: 150px;"></tgs-player>
 
 <p align="center">
   🌱 Web Developer | Building my skills step by step <br>
