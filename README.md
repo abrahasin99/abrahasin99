@@ -1,8 +1,7 @@
 <h1 align="center">👋 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 
-<img src="https://animated-country-flags.malith.dev/webp/US.webp](https://raw.githubusercontent.com/Malith-Rukshan/animated-country-flags/refs/heads/main/webp/BD.webp" 
-     alt="Bangladesh Flag" 
-     style="width: 150px;">
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+<tgs-player src="https://animated-country-flags.malith.dev/animated-country-flags/tgs/BD.tgs" autoplay loop style="width: 150px; height: 150px;"></tgs-player>
 
 <p align="center">
   🌱 Web Developer | Building my skills step by step <br>
