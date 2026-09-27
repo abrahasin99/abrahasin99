@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Abu Raihan Tashin - Web Developer"/>
-<h1> 🫡 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
+<h1> Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 <br>
-   Web Developer | Building my skills step by step <br>
+   Web Developer | Building My Skills Step By Step <br>
   <h6>Learning. Improving. Delivering with integrity.</h6>
 </p>
 
