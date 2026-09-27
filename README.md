@@ -2,8 +2,6 @@
   <img src="./banner.png" width="100%" alt="Abu Raihan Tashin - Web Developer"/>
 <h1> 🫡 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 <br>
-<br>
-<br>
    Web Developer | Building my skills step by step <br>
   <h6>Learning. Improving. Delivering with integrity.</h6>
 </p>
@@ -12,7 +10,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,vscode" alt="Tech Stack" />
 </p>
 
 ---
