@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Malith-Rukshan/animated-country-flags/refs/heads/main/webp/BD.webp" width="200"/>
+  <img src="./banner.png" width="100%" alt="Abu Raihan Tashin - Web Developer"/>
 <h1> 🫡 Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
 <br>
 <br>
