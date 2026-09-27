@@ -1,35 +1,75 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Abu Raihan Tashin - Web Developer"/>
-<h1> Assalamu'Alaikum, I'm Abu Raihan Tashin</h1>
-<br>
-   Web Developer | Building My Skills Step By Step <br>
-  <h6>Learning. Improving. Delivering with integrity.</h6>
+  <img src="./banner.png" width="100%" alt="Abu Raihan Tashin - Web Developer">
+</p>
+
+<h1 align="center">Assalamu'Alaikum, I'm Abu Raihan Tashin 👋</h1>
+
+<p align="center">
+  <strong>Web Developer | Building My Skills Step by Step</strong>
+</p>
+
+<p align="center">
+  <i>Learning. Improving. Delivering with integrity.</i>
 </p>
 
 ---
 
 ### 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,vscode" alt="Tech Stack">
 </p>
 
 ---
 
 ### ✨ About Me
-> I’m a **Web Developer** focused on building smooth, efficient, and accessible web experiences.  
-Currently, I’m sharpening my skills in **frontend development** and learning to write **clean, maintainable code**.  
 
-I’m passionate about understanding **how technology works under the hood** — from client-side interactions to backend logic — as I prepare to step into **app and software development**.  
+I'm a **Web Developer** focused on building modern, responsive, and accessible web experiences.
 
-I aim to deliver **error-free work** while maintaining **high work ethics** and a humble mindset.  
-Every project I take on helps me grow a little more. 🌿
+Currently, I'm strengthening my skills in **frontend development** with **React, TypeScript, Next.js, and Tailwind CSS**, while gradually expanding my knowledge of backend development.
+
+I'm passionate about understanding **how technology works under the hood** — from user interfaces and client-side interactions to APIs, databases, and backend logic.
+
+My goal is to become a **well-rounded Full-Stack Developer** by continuously learning, building real-world projects, and improving my problem-solving skills.
+
+I believe in writing **clean, maintainable code** and delivering quality work with **integrity, consistency, and a humble mindset**. 🌱
+
+---
+
+### 🚀 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,mongodb,postgres" alt="Currently Learning">
+</p>
+
+* ⚛️ React & component-based development
+* 🔷 TypeScript
+* ▲ Next.js
+* 🟢 Node.js & backend fundamentals
+* 🔌 APIs and data fetching
+* 🗄️ Databases & server-side development
+* 🧩 Problem solving through real-world projects
+
+---
+
+### 📌 What I Enjoy
+
+* 🌐 Building modern web applications
+* ⚛️ Creating clean and responsive user interfaces
+* 🔌 Working with APIs and data
+* 🧩 Solving problems through code
+* 📚 Learning new technologies
+* 🚀 Turning ideas into practical projects
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C0A3&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Enthusiast;Clean+Code+Advocate;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C0A3&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Enthusiast;Aspiring+Full-Stack+Developer;Clean+Code+Advocate;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG">
 </p>
 
 ---
 
-⭐ **Thanks for stopping by!** Let’s grow together.  
+<p align="center">
+  ⭐ <strong>Thanks for stopping by!</strong><br>
+  <i>Let's learn, build, and grow together. 🚀</i>
+</p>
