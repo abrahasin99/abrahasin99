@@ -78,12 +78,12 @@ I believe in writing **clean, maintainable code** and delivering quality work wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahasin99&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="Abu Raihan Tashin's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahasin99&layout=compact&theme=transparent&hide_border=true" height="180" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrahasin99&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/abrahasin99">
+    <img src="https://img.shields.io/github/followers/abrahasin99?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/abrahasin99?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abrahasin99?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+  </a>
 </p>
 
 ---
